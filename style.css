@@ -1,0 +1,92 @@
+body {
+    background-image: url("1723016406819.jpg");
+    background-size: cover;
+    /* background-attachment: fixed; */
+}
+
+.carousel-item img {
+    height: 480px;
+    object-fit: cover;
+    background-size: cover;
+    
+}
+
+.navbar {
+    background: linear-gradient(to right, rgb(255, 136, 0), rgb(226, 222, 222), green);
+}
+
+.display-4{
+    margin-left: 8%;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.footer-icons a {
+    color: white;
+    margin: 0 10px;
+    font-size: 24px;
+}
+
+.custom-form {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border: 2px solid #fbb034;
+    border-radius: 10px;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.custom-header {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+.custom-form .form-control, .custom-form button {
+    background-color: #f0f8ff;
+    border-color: #004080;
+    color: #004080;
+}
+
+.custom-form .form-control:focus, .custom-form button:focus {
+    border-color: #ffa500;
+    box-shadow: 0 0 0 0.2rem rgba(255, 165, 0, 0.25);
+}
+
+.custom-form label {
+    color: #004080;
+}
+
+.custom-form h3 {
+    color: #ffa500;
+    text-shadow: 2px 2px 2px #004080;
+}
+
+.footer-icons a {
+    color: #ffa500;
+    margin: 0 10px;
+}
+
+.btn-learn-more, .btn-quiz {
+    background-color: #ffa500;
+    border-color: #ffa500;
+}
+
+.btn-learn-more:hover, .btn-quiz:hover {
+    background-color: #ff8c00;
+    border-color: #ff8c00;
+}
+
+#registration-form{
+    border: 2px solid rgb(0, 119, 128);
+    width: 50%;
+    margin-top: 50px;
+    margin-left: 25%;
+    padding: 50px;
+}
+
